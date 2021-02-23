@@ -67,3 +67,5 @@ Kanji | RTK
 人 | person
 来 | coming
 週 | week
+
+Example lists are available in user lists folder
